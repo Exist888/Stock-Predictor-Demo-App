@@ -1,19 +1,23 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+# __Dodgy Dave's Stock Predictions__
+### __AI-powered stock prediction demo app (not real financial advice)__
+- Project for Scrimba's AI Engineer Path.
+- Enter up to three stock tickers (e.g. META, TSLA, GOOG).
+- Get colorful, unpredictable, and potentially sober stock advice. 
+- Want to try it out? <a href="https://stock-predictor-demo-app.pages.dev/">__Launch the app__</a>.
+<br/>
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+<img src="https://github.com/user-attachments/assets/4d34f092-7e9f-4dfe-916f-8c7a511b8562" alt="Project Hero Image" width="620">
+<br/><br/>
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+> Design and starter code provided by Scrimba. I implemented the API functionality and AI integration as part of the project.
+<br/>
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+## __Skills Applied__
+- Security - Encrypted API keys using Cloudflare workers
+- AI Text Generation - Integrated with OpenAI's API via Cloudflare AI Gateway
+- API Integration - Queried stock data from the Polygon API
+<br/> <br/>
 
-Happy Coding!
+##
+### __Let's connect__
+Say hi or follow my work on <a href="https://www.linkedin.com/in/filip-herbst/">__LinkedIn__</a>
