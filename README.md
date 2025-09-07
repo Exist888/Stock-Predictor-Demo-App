@@ -27,4 +27,4 @@
 
 ##
 ### __Let's connect__
-Say hi or follow my work on <a href="https://www.linkedin.com/in/filip-herbst/">__LinkedIn__</a>
+[**LinkedIn ➜ Filip Herbst**](https://www.linkedin.com/in/filip-herbst/)
